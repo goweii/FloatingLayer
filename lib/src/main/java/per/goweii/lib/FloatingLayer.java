@@ -29,7 +29,7 @@ import eightbitlab.com.blurview.BlurView;
 import eightbitlab.com.blurview.RenderScriptBlur;
 
 /**
- * @author damai
+ * @author Cuizhen
  */
 public class FloatingLayer implements View.OnKeyListener {
 
